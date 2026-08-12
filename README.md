@@ -10,6 +10,31 @@ I am an aspiring backend developer with a strong passion for automation, systems
 * 🛠️ **ORMs & Database Tools**: Prisma, Drizzle ORM
 * 🌐 **Frontend Frameworks**: React, Next.js (Client Side), Tailwind CSS
 
+## Technical Skills
+
+* 🐍 **Languages**: 
+  ![Python](https://shields.io)
+  ![JavaScript](https://shields.io)
+
+* ⚙️ **Backend & Automation**: 
+  ![Playwright](https://shields.io)
+  ![Scrapy](https://shields.io)
+  ![Next.js](https://shields.io)
+
+* 🗄️ **Databases & BaaS**: 
+  ![PostgreSQL](https://shields.io)
+  ![SQLite](https://shields.io)
+  ![Supabase](https://shields.io)
+
+* 🛠️ **ORMs & Database Tools**: 
+  ![Prisma](https://shields.io)
+
+* 🌐 **Frontend Frameworks**: 
+  ![React](https://shields.io)
+  ![TailwindCSS](https://shields.io)
+
+
+
 ## Lets connect
 * 📧 **Email**: femiznet.dev@gmail.com
 * 💼 **LinkedIn**: [Oluwafemi Ajuwon](https://www.linkedin.com/in/oluwafemi-ajuwon-4860332b1/)
